@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/fulljs.iml" filepath="$PROJECT_DIR$/fulljs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/star-match.iml" filepath="$PROJECT_DIR$/star-match.iml" />
     </modules>
   </component>
 </project>
